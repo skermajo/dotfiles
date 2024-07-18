@@ -79,10 +79,12 @@ button:hover {
 #idle_inhibitor,
 #scratchpad,
 #power-profiles-daemon,
+#custom-exit,
 #mpd {
     padding: 0 10px;
     color: #ffffff;
 }
+
 
 #window,
 #workspaces {
